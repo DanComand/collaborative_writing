@@ -6,3 +6,17 @@ They were confused, but they were learning. With help from some great TAs, the g
 They had some minor difficulties, but managed to prevail. 
 
 The assignment was malevolent from inception, demanding of the crowd a multitude of skill absent until that day. The crowd lurched forward in the darkness, gutteral yawps from mouths of shattered teeth, throats coated in old blood, ruined shoes from endless shamboling, and a thirst for brain...
+<<<<<<< HEAD
+=======
+
+
+Repetition was the key to this game, and the team know it would enhance their comprehension.
+
+
+
+
+
+
+
+
+>>>>>>> f6ccc6d52a665104e44a22de1a4d402803984349
